@@ -119,9 +119,9 @@ const Hero = () => {
               <span className="text-sm text-muted-foreground">Follow me:</span>
               <div className="flex space-x-4">
                 {[
-                  { icon: Github, href: 'https://github.com/kellykoome', label: 'GitHub' },
+                  { icon: Github, href: 'https://github.com/kingkelly12', label: 'GitHub' },
                   { icon: Linkedin, href: 'https://linkedin.com/in/kellykoome', label: 'LinkedIn' },
-                  { icon: Mail, href: 'mailto:kelly@example.com', label: 'Email' },
+                  { icon: Mail, href: 'mailto:koomekelly7@gmail.com', label: 'Email' },
                 ].map((social, index) => {
                   const Icon = social.icon;
                   return (

@@ -253,7 +253,7 @@ const Projects = () => {
             asChild
             className="border-primary text-primary hover:bg-primary hover:text-primary-foreground transition-all duration-300 hover:shadow-medium"
           >
-            <a href="https://github.com/kellykoome" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/kingkelly12" target="_blank" rel="noopener noreferrer">
               <Github size={20} className="mr-2" />
               View All Projects on GitHub
             </a>

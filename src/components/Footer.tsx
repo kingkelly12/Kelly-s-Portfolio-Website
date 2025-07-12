@@ -107,7 +107,7 @@ const Footer = () => {
                   href="mailto:kelly@example.com" 
                   className="hover:text-primary transition-colors"
                 >
-                  kelly@example.com
+                  koomekelly7@gmail.com
                 </a>
               </p>
               <p>Nairobi, Kenya</p>
@@ -128,9 +128,7 @@ const Footer = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-2 text-muted-foreground text-sm">
-              <span>© {currentYear} Kelly Koome. Built with</span>
-              <Heart size={16} className="text-red-500 animate-pulse" />
-              <span>using React & Tailwind CSS</span>
+              <span>© {currentYear} Kelly Koome. Built using React & Tailwind CSS</span>
             </div>
             
             <div className="text-sm text-muted-foreground">
