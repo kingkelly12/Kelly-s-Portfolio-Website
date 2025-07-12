@@ -20,14 +20,14 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'kelly@example.com',
-      href: 'mailto:kelly@example.com'
+      value: 'koomekelly7@gmail.com',
+      href: 'mailto:koomekelly7@gmail.com'
     },
     {
       icon: Phone,
       label: 'Phone',
-      value: '+254 700 123 456',
-      href: 'tel:+254700123456'
+      value: '+254 705275707',
+      href: 'tel:+254705275707'
     },
     {
       icon: MapPin,
@@ -41,7 +41,7 @@ const Contact = () => {
     {
       icon: Github,
       label: 'GitHub',
-      href: 'https://github.com/kellykoome',
+      href: 'https://github.com/kingkelly12',
       color: 'hover:text-gray-900 dark:hover:text-gray-100'
     },
     {
@@ -59,7 +59,7 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      href: 'mailto:kelly@example.com',
+      href: 'mailto:koomekelly7@gmail.com',
       color: 'hover:text-green-600'
     }
   ];

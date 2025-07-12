@@ -21,9 +21,9 @@ const Skills = () => {
       skills: [
         { name: 'React', level: 90, description: 'Building dynamic user interfaces' },
         { name: 'JavaScript', level: 88, description: 'Modern ES6+ features' },
-        { name: 'TypeScript', level: 80, description: 'Type-safe development' },
-        { name: 'HTML/CSS', level: 92, description: 'Semantic markup & styling' },
-        { name: 'Tailwind CSS', level: 85, description: 'Utility-first CSS framework' }
+        { name: 'TypeScript', level: 70, description: 'Type-safe development' },
+        { name: 'HTML/CSS', level: 90, description: 'Semantic markup & styling' },
+        { name: 'Tailwind CSS', level: 70, description: 'Utility-first CSS framework' }
       ]
     },
     {
@@ -44,9 +44,9 @@ const Skills = () => {
       color: 'text-purple-500',
       skills: [
         { name: 'PostgreSQL', level: 80, description: 'Relational database design' },
-        { name: 'MongoDB', level: 75, description: 'NoSQL document database' },
+        { name: 'MongoDB', level: 70, description: 'NoSQL document database' },
         { name: 'SQLAlchemy', level: 78, description: 'Python ORM' },
-        { name: 'Database Design', level: 82, description: 'Schema optimization' }
+        { name: 'Database Design', level: 75, description: 'Schema optimization' }
       ]
     },
     {
@@ -57,7 +57,7 @@ const Skills = () => {
         { name: 'Git & GitHub', level: 88, description: 'Version control & collaboration' },
         { name: 'VS Code', level: 90, description: 'Development environment' },
         { name: 'Docker', level: 70, description: 'Containerization basics' },
-        { name: 'Postman', level: 85, description: 'API testing & documentation' }
+        { name: 'Postman', level: 80, description: 'API testing & documentation' }
       ]
     },
     {
@@ -67,7 +67,7 @@ const Skills = () => {
       skills: [
         { name: 'UI/UX Design', level: 75, description: 'User-centered design' },
         { name: 'Figma', level: 70, description: 'Design prototyping' },
-        { name: 'Responsive Design', level: 88, description: 'Mobile-first approach' },
+        { name: 'Responsive Design', level: 80, description: 'Mobile-first approach' },
         { name: 'Accessibility', level: 80, description: 'Inclusive design principles' }
       ]
     },
@@ -77,8 +77,8 @@ const Skills = () => {
       color: 'text-cyan-500',
       skills: [
         { name: 'Vercel', level: 82, description: 'Frontend deployment' },
-        { name: 'Heroku', level: 78, description: 'Full-stack applications' },
-        { name: 'Netlify', level: 80, description: 'Static site deployment' },
+        { name: 'Heroku', level: 55, description: 'Full-stack applications' },
+        { name: 'Netlify', level: 60, description: 'Static site deployment' },
         { name: 'AWS Basics', level: 65, description: 'Cloud services fundamentals' }
       ]
     }

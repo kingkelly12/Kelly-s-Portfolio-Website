@@ -16,7 +16,7 @@ const Projects = () => {
         'Team analytics dashboard',
         'File sharing system'
       ],
-      githubUrl: 'https://github.com/kellykoome/taskflow',
+      githubUrl: 'https://github.com/kingkelly12/taskflow',
       liveUrl: 'https://taskflow-demo.vercel.app',
       category: 'Full-Stack'
     },
@@ -31,7 +31,7 @@ const Projects = () => {
         'Climate data visualization',
         'Location-based alerts'
       ],
-      githubUrl: 'https://github.com/kellykoome/weatherwise',
+      githubUrl: 'https://github.com/kingkelly12/weatherwise',
       liveUrl: 'https://weatherwise-demo.vercel.app',
       category: 'Frontend'
     },
@@ -46,7 +46,7 @@ const Projects = () => {
         'Automated testing suite',
         'API documentation'
       ],
-      githubUrl: 'https://github.com/kellykoome/bookhub-api',
+      githubUrl: 'https://github.com/kingkelly12/bookhub-api',
       liveUrl: 'https://bookhub-api.herokuapp.com/docs',
       category: 'Backend'
     },
@@ -61,7 +61,7 @@ const Projects = () => {
         'Financial analytics',
         'Mobile-responsive design'
       ],
-      githubUrl: 'https://github.com/kellykoome/expense-tracker',
+      githubUrl: 'https://github.com/kingkelly12/expense-tracker',
       liveUrl: 'https://expense-tracker-kelly.vercel.app',
       category: 'Full-Stack'
     }

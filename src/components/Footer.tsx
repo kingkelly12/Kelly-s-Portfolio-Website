@@ -12,9 +12,9 @@ const Footer = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/kellykoome', label: 'GitHub' },
+    { icon: Github, href: 'https://github.com/kingkelly12', label: 'GitHub' },
     { icon: Linkedin, href: 'https://linkedin.com/in/kellykoome', label: 'LinkedIn' },
-    { icon: Mail, href: 'mailto:kelly@example.com', label: 'Email' }
+    { icon: Mail, href: 'mailto:koomekelly7@gmail.com', label: 'Email' }
   ];
 
   const scrollToTop = () => {

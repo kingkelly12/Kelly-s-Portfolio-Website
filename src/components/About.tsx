@@ -27,28 +27,28 @@ const About = () => {
 
   const timeline = [
     {
-      year: '2023',
+      year: '2025',
       title: 'Software Engineering Bootcamp',
       description: 'Graduated from Moringa School with expertise in full-stack development',
       color: 'text-primary'
     },
     {
-      year: '2023',
+      year: '2025',
       title: 'First Full-Stack Project',
       description: 'Built and deployed my first React + Python application',
       color: 'text-primary-light'
     },
     {
-      year: '2024',
+      year: 'Now',
       title: 'Junior Developer',
       description: 'Started my journey as a professional software engineer',
       color: 'text-primary'
     },
     {
-      year: 'Now',
-      title: 'Growing & Building',
-      description: 'Continuously learning and creating impactful software solutions',
-      color: 'text-accent-foreground'
+      year: 'Future',
+      title: 'Continuous Learning',
+      description: 'Committed to lifelong learning and exploring new technologies',
+      color: 'text-primary-light'
     }
   ];
 
