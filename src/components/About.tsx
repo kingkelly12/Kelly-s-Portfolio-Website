@@ -33,7 +33,7 @@ const About = () => {
       color: 'text-primary'
     },
     {
-      year: '2025',
+      year: '2024',
       title: 'First Full-Stack Project',
       description: 'Built and deployed my first React + Python application',
       color: 'text-primary-light'
