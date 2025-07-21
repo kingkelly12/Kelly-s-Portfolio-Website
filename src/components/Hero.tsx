@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import kellyHeadshot from '@/assets/kelly-headshot (2).jpg';
+import kellyHeadshot from '@/assets/kelly-headshot.jpg';
 
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
